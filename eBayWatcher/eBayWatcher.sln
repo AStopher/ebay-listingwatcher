@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBayWatcher", "eBayWatcher.csproj", "{74FC4823-E1FA-4348-B8FA-094768526DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74FC4823-E1FA-4348-B8FA-094768526DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FC4823-E1FA-4348-B8FA-094768526DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FC4823-E1FA-4348-B8FA-094768526DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FC4823-E1FA-4348-B8FA-094768526DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {287D5DBA-3F01-492C-B466-6DA212709F5D}
+	EndGlobalSection
+EndGlobal
